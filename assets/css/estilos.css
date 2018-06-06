@@ -16,10 +16,9 @@ body{
   background: -webkit-linear-gradient(-45deg, #bce0ee 13%,#bce0ee 23%,#bce0ee 27%,#bce0ee 27%,#bce0ee 34%,#bce0ee 44%,#bce0ee 51%,#b3dced 55%,#b3dced 55%,#0288d1 95%);
   background: linear-gradient(135deg, #bce0ee 13%,#bce0ee 23%,#bce0ee 27%,#bce0ee 27%,#bce0ee 34%,#bce0ee 44%,#bce0ee 51%,#b3dced 55%,#b3dced 55%,#0288d1 95%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bce0ee', endColorstr='#0288d1',GradientType=1 );
-
   background-position:center center;
   background-size: 100% 2000px;
-
+  font-family: le;
 
 }
 
@@ -29,7 +28,7 @@ body{
   background-position: center;
   background-position: bottom;
   background-repeat: no-repeat;
-  font-family: le;
+
 
 
 
@@ -141,7 +140,6 @@ body{
   margin: 0 0 15px 0;
   font-weight: 300;
   font-size: 25px;
-  font-family: le;
   text-align: center;
 }
 
@@ -155,7 +153,6 @@ input[type="password"] {
   height: 32px;
   border: none;
   border-bottom: 1px solid #AAA;
-  font-family: le;
   font-weight: 400;
   font-size: 15px;
   transition: 0.2s ease;
@@ -177,7 +174,6 @@ input[type="submit"] {
   border: none;
   border-radius: 2px;
   color: #FFF;
-  font-family: le;
   font-weight: 500;
   text-transform: uppercase;
   transition: 0.1s ease;
@@ -217,7 +213,6 @@ input[type="submit"]:active {
   display: block;
   margin-bottom: 40px;
   font-size: 28px;
-  font-family: le;
   color: #FFF;
   text-align: center;
 }
@@ -229,7 +224,6 @@ button.s-signin {
   border: none;
   border-radius: 2px;
   color: #FFF;
-  font-family: le;
   font-weight: 500;
   transition: 0.2s ease;
   cursor: pointer;
